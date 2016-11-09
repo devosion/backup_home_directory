@@ -1,0 +1,7 @@
+Music
+backups
+.thunderbird
+.cache
+Documents/ebooks
+Downloads
+
